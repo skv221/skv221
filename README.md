@@ -30,7 +30,7 @@ I'm learning Selenium step-by-step, focusing on the key areas of **element locat
 
 ## How I Work
 - **Languages:** Python, MySQL
-- **Tools:** Selenium WebDriver, JIRA, qTest, Git, Jenkins, pytest
+- **Tools:** Selenium WebDriver, JIRA, qTest, Git, Jenkins, pytest, Octane
 - **Frameworks:** Page Object Model (POM), Data-driven Testing
 - **Dev Tools:** VS Code, PyCharm
 
