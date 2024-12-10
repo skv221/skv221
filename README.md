@@ -39,7 +39,6 @@ I'm learning Selenium step-by-step, focusing on the key areas of **element locat
 - **Instagram:** [@notsovenky](https://www.instagram.com/notsovenky/)
 
 ## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=skv221&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=skv221&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=skv221&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
