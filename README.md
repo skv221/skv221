@@ -5,7 +5,7 @@ Hi! 👋 I’m a **Quality Specialist** with 2.6 years of experience in **softwa
 ## About Me
 - **Industry:** Software Development (Quality Assurance, Test Automation)
 - **Experience:** 2.6 years as a **Quality Specialist** at **Bank of America**
-- **Key Skills:** 
+- **Key Skills:**
   - **Automation Tools & Frameworks:** Python, Selenium, pytest, JIRA, qTest, Octane
   - **Database Management:** MySQL, MongoDB, PostgreSQL, Sybase
   - **Version Control & Collaboration:** GitHub, Git
