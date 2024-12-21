@@ -21,6 +21,7 @@ I'm learning Selenium step-by-step, focusing on the key areas of **element locat
 - **[Week 1: Selenium Basics](https://github.com/skv221/selenium-week1-basics)** – Getting started with Selenium, Python, and basic automation.
 - **[Week 2: Element Locators & Form Automation](https://github.com/skv221/selenium-week2-locators)** – Handling different element locators and automating forms.
 - **[Week 3: Advanced Web Elements](https://github.com/skv221/selenium-week3-advanced-elements)** – Handling dropdowns, alerts, and working with iframes.
+- **[Week 4: Data Driven Testing](https://github.com/skv221/selenium-week4-data-driven)** - Performing data driven testing with pytest
 
 
 ## Key Learnings
