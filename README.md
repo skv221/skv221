@@ -9,7 +9,7 @@ Hi! 👋 I’m a **Quality Specialist** with 2.6 years of experience in **softwa
   - **Automation Tools & Frameworks:** Python, Selenium, pytest, JIRA, qTest, Octane
   - **Database Management:** MySQL, MongoDB, PostgreSQL, Sybase
   - **Version Control & Collaboration:** GitHub, Git
-  - **Testing Types:** Regression Testing, Functional Testing, Acceptance Testing
+  - **Testing Types:** Regression Testing, Functional Testing, Acceptance Testing 
   - **Other Tools:** MS Office, Linux Shell Scripting, Agile (Scrum)
 - **Current Focus:** Mastering **Python Selenium** for web automation and building automation frameworks.
 
