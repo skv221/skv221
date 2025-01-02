@@ -23,6 +23,7 @@ I'm learning Selenium step-by-step, focusing on the key areas of **element locat
 - **[Week 3: Advanced Web Elements](https://github.com/skv221/selenium-week3-advanced-elements)** – Handling dropdowns, alerts, and working with iframes.
 - **[Week 4: Data Driven Testing](https://github.com/skv221/selenium-week4-data-driven)** - Performing data driven testing with pytest
 - **[Week 5: Hybrid Automation Framework Design](https://github.com/skv221/selenium-week5-framework)** - Designing a robust Automation Framework
+- **[Week 6: Page Object Model](https://github.com/skv221/selenium-week6-pom)** - Working on Page Object Models along with Hybrid Framework
 
 
 ## Key Learnings
