@@ -34,9 +34,9 @@ I'm learning Selenium step-by-step, focusing on the key areas of **element locat
 
 ## How I Work
 - **Languages:** Python, MySQL
-- **Tools:** Selenium WebDriver, JIRA, qTest, Git, Jenkins, pytest, Octane
+- **Tools:** Selenium WebDriver, JIRA, qTest, Git, pytest, Octane
 - **Frameworks:** Page Object Model (POM), Hybrid Framework testing
-- **Dev Tools:** VS Code, PyCharm
+- **Dev Tools:** VS Code
 
 ## Connect with Me
 - **LinkedIn:** [Venkatesan S K](https://www.linkedin.com/in/skv221/)
