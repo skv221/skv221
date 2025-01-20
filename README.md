@@ -24,8 +24,8 @@ I'm learning Selenium step-by-step, focusing on the key areas of **element locat
 - **[Week 4: Data Driven Testing](https://github.com/skv221/selenium-week4-data-driven)** - Performing data driven testing with pytest
 - **[Week 5: Hybrid Automation Framework Design](https://github.com/skv221/selenium-week5-framework)** - Designing a robust Automation Framework
 - **[Week 6: Page Object Model](https://github.com/skv221/selenium-week6-pom)** - Working on Page Object Models along with Hybrid Framework
-- **[Week 7: Advanced integrationl](https://github.com/skv221/selenium-week7-advanced-integration)** - Ensuring cross browser compatibility and headless testing in multiple cloud machines
-
+- **[Week 7: Advanced integration](https://github.com/skv221/selenium-week7-advanced-integration)** - Ensuring cross browser compatibility and headless testing in multiple cloud machines
+- **[Week 8: CI/CD with advanced reporting](https://github.com/skv221/selenium-week8-reporting-cicd)** - Adding CI/CD functionality with advanced reporting
 
 ## Key Learnings
 - **Python Selenium:** Through my journey, I’ve learned how to automate browser interactions, write robust test scripts, and work with dynamic content.
