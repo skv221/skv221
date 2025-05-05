@@ -1,42 +1,65 @@
 # Welcome to My GitHub Profile!
 
-Hi! 👋 I’m a **Quality Specialist** with 3+ years of experience in **software automation and quality assurance**. Currently, I'm on a journey to **master Python Selenium** and enhance my skills in test automation. My GitHub is where I document my learning, showcase projects, and explore tools for testing and automation.
+Hi! 👋 I’m a **Quality Specialist** with 3+ years of experience in software automation and quality assurance. Currently, I’m expanding my automation expertise by mastering **Playwright** and further enhancing my test automation skills. My GitHub is where I document my learning, showcase projects, and explore advanced tools for testing and automation.
 
-## About Me 
-- **Industry:** Software Development (Quality Assurance, Test Automation)
-- **Experience:** 2.6 years as a **Quality Specialist** at **Bank of America**
-- **Key Skills:**
-  - **Automation Tools & Frameworks:** Python, Selenium, pytest, JIRA, qTest, Octane
-  - **Database Management:** MySQL, MongoDB, PostgreSQL, Sybase
-  - **Version Control & Collaboration:** GitHub, Git
-  - **Testing Types:** Regression Testing, Functional Testing, Acceptance Testing 
-  - **Other Tools:** MS Office, Linux Shell Scripting, Agile (Scrum)
-- **Current Focus:** Mastering **Python Selenium** for web automation and building automation frameworks.
+---
 
-## Projects & Challenges
+## 🔍 About Me
 
-### **Python Selenium Learning Journey**
-I'm learning Selenium step-by-step, focusing on the key areas of **element locators, dynamic content handling, and test automation frameworks**. This repository contains my weekly challenges and the solutions I built.
+- **Industry:** Software Development (Quality Assurance, Test Automation)  
+- **Experience:** 3+ years as a Quality Specialist at Bank of America  
+- **Key Skills:**  
+  - **Automation Tools & Frameworks:** Python, Selenium, Playwright, pytest, JIRA, qTest, Octane  
+  - **Database Management:** MySQL, MongoDB, PostgreSQL, Sybase  
+  - **Version Control & Collaboration:** GitHub, Git  
+  - **Testing Types:** Regression Testing, Functional Testing, Acceptance Testing  
+  - **Other Tools:** MS Office, Linux Shell Scripting, Agile (Scrum)  
+- **Current Focus:** Mastering Playwright for web automation and enhancing automation frameworks  
 
-- **[Week 1: Selenium Basics](https://github.com/skv221/selenium-week1-basics)** – Getting started with Selenium, Python, and basic automation.
-- **[Week 2: Element Locators & Form Automation](https://github.com/skv221/selenium-week2-locators)** – Handling different element locators and automating forms.
-- **[Week 3: Advanced Web Elements](https://github.com/skv221/selenium-week3-advanced-elements)** – Handling dropdowns, alerts, and working with iframes.
-- **[Week 4: Data Driven Testing](https://github.com/skv221/selenium-week4-data-driven)** - Performing data driven testing with pytest
-- **[Week 5: Hybrid Automation Framework Design](https://github.com/skv221/selenium-week5-framework)** - Designing a robust Automation Framework
-- **[Week 6: Page Object Model](https://github.com/skv221/selenium-week6-pom)** - Working on Page Object Models along with Hybrid Framework
-- **[Week 7: Advanced integration](https://github.com/skv221/selenium-week7-advanced-integration)** - Ensuring cross browser compatibility and headless testing in multiple cloud machines
-- **[Week 8: CI/CD with advanced reporting](https://github.com/skv221/selenium-week8-reporting-cicd)** - Adding CI/CD functionality with advanced reporting
+---
 
-## Key Learnings
-- **Python Selenium:** Through my journey, I’ve learned how to automate browser interactions, write robust test scripts, and work with dynamic content.
-- **Test Automation:** I’ve gained hands-on experience in automating end-to-end testing for web applications, ensuring consistent quality and efficiency.
-- **Agile and Scrum:** I have worked in Agile teams, delivering incremental software improvements, managing tasks with tools like **JIRA**, and collaborating effectively in sprints.
+## 🧪 Projects & Challenges
 
-## How I Work
-- **Languages:** Python, MySQL
-- **Tools:** Selenium WebDriver, JIRA, qTest, Git, pytest, Octane
-- **Frameworks:** Page Object Model (POM), Hybrid Framework testing
-- **Dev Tools:** VS Code
+### ✅ Selenium Automation Journey (Completed)
+
+A structured and hands-on journey through Selenium that covered:
+- **Week 1:** Selenium Basics – Setup and simple automation scripts  
+- **Week 2:** Element Locators & Form Automation  
+- **Week 3:** Advanced Web Elements – Dropdowns, alerts, iframes  
+- **Week 4:** Data-Driven Testing – With `pytest`  
+- **Week 5:** Hybrid Framework Design – Robust automation design  
+- **Week 6:** Page Object Model (POM) – Integrated into hybrid framework  
+- **Week 7:** Advanced Integration – Cross-browser & headless testing in cloud environments  
+- **Week 8:** CI/CD – Continuous Integration with advanced reporting
+
+### 🚀 Current Focus: Playwright Learning Journey
+
+Exploring the next generation of browser automation:
+- Cross-browser automation including Chromium, Firefox, and WebKit  
+- Headless and parallel execution  
+- Page Object Model with Playwright  
+- CI/CD integration for scalable test execution  
+- Real-world test case automation and reporting  
+
+---
+
+## 📚 Key Learnings
+
+- **Test Automation:** Automated web applications end-to-end, focusing on performance, stability, and scalability  
+- **Selenium Mastery:** Proficient in automating complex UIs and integrating test frameworks with tools like JIRA and Octane  
+- **Playwright Mastery (In Progress):** Developing modern, fast, and reliable browser automation solutions  
+- **Agile & Scrum:** Delivered iterative releases, participated in sprint planning and retrospectives, and managed tasks using Agile tools
+
+---
+
+## 🛠️ How I Work
+
+- **Languages:** Python, MySQL  
+- **Tools:** Playwright, Selenium WebDriver, JIRA, qTest, Git, pytest, Octane  
+- **Frameworks:** Page Object Model (POM), Hybrid Framework  
+- **Dev Tools:** Visual Studio Code  
+
+---
 
 ## Connect with Me
 - **LinkedIn:** [Venkatesan S K](https://www.linkedin.com/in/skv221/)
