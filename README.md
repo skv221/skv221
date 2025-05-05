@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hi! 👋 I’m a **Quality Specialist** with 2.6 years of experience in **software automation and quality assurance**. Currently, I'm on a journey to **master Python Selenium** and enhance my skills in test automation. My GitHub is where I document my learning, showcase projects, and explore tools for testing and automation.
+Hi! 👋 I’m a **Quality Specialist** with 3+ years of experience in **software automation and quality assurance**. Currently, I'm on a journey to **master Python Selenium** and enhance my skills in test automation. My GitHub is where I document my learning, showcase projects, and explore tools for testing and automation.
 
 ## About Me 
 - **Industry:** Software Development (Quality Assurance, Test Automation)
