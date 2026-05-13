@@ -125,8 +125,6 @@ Shifting toward modern automation practices:
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skv221&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skv221&theme=dark&hide_border=false&layout=compact)
-
 ---
 
 ## ⚡ Final Note
