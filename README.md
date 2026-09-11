@@ -1,133 +1,377 @@
-# Welcome to My GitHub Profile 👋
+# 👋 Welcome to My GitHub Profile
 
-Hi, I’m **Venkatesan (V)** — a **Quality Specialist** focused on building **scalable, reliable test automation systems**.
+Hi, I'm **Venkatesan (V)** — a **Quality Specialist** with 4+ years of experience in **Quality Engineering, Test Automation, and Automation Framework Design**.
 
-I don’t just test applications — I work on **engineering quality into systems**.
+My journey started with building reliable test automation systems, and I'm now expanding into **AI Engineering and Agentic AI** — learning how to build AI-powered applications, intelligent agents, and automation systems.
+
+> I don't just test systems. I build systems that make engineering more intelligent.
 
 ---
 
 ## 🔍 About Me
 
-- 💼 **Role:** Quality Specialist (4+ years)  
-- 🏢 **Organization:** Bank of America  
-- ⚙️ **Focus Area:** Test Automation, Framework Design, Quality Engineering  
+- 💼 **Role:** Quality Specialist
+- 🏢 **Organization:** Bank of America
+- 🧪 **Experience:** 4+ Years in QA & Automation
+- ⚙️ **Core Expertise:** Quality Engineering & Test Automation
+- 🤖 **Current Focus:** AI Engineering & Agentic AI
 
 I specialize in:
-- Designing **robust automation frameworks**
-- Building **maintainable and scalable test systems**
-- Ensuring **high product reliability through smart testing strategies**
+
+- Designing scalable automation frameworks
+- Building maintainable test systems
+- API and UI automation
+- Improving test reliability
+- Automation framework design
+- Exploring AI-powered engineering solutions
 
 ---
 
-## 🚀 What I’m Doing Now
+# 🚀 What I'm Doing Now
 
-I’m currently focused on mastering **Playwright with TypeScript** to build modern automation solutions:
+I'm currently focused on **AI Engineering and Agentic AI**.
 
-- Writing **end-to-end tests using Playwright + TypeScript**
-- Leveraging **type safety for better test reliability**
-- Designing **clean and scalable automation architecture**
-- Implementing **parallel and cross-browser execution**
-- Integrating automation with **CI/CD pipelines**
+My goal is to move beyond simply using AI tools and understand how AI applications are actually built — from calling LLM APIs to building systems that can retrieve knowledge, use tools, reason, and eventually operate as autonomous agents.
 
-👉 Goal: Become an engineer who builds **fast, reliable, and production-grade automation frameworks**
+My learning approach is heavily **project-based**:
+
+> Learn → Build → Experiment → Break → Understand → Improve
 
 ---
 
-## 🧪 My Automation Journey
+# 🤖 Agentic AI Learning Journey
 
-### ✅ Selenium + Python (Completed)
+I'm following a structured learning path to progressively move from LLM fundamentals to production-ready AI agents.
 
-Worked with **Selenium WebDriver** using **Python**:
-
-- Built from **basic scripts → full hybrid framework**
-- Implemented **data-driven testing using pytest**
-- Designed **Page Object Model (POM)**
-- Achieved **cross-browser + headless execution**
-- Integrated with **CI/CD pipelines and reporting tools**
-
-📌 Outcome: Strong foundation in **automation design, not just tool usage**
-
----
-
-### 🚧 Playwright + TypeScript (Current Phase – Leveling Up)
-
-Shifting toward modern automation practices:
-
-- Strong typing with **TypeScript for scalable test code**
-- Faster execution using Playwright Test Runner
-- Built-in **parallelism and test isolation**
-- Better handling of **dynamic UI applications**
-- Modular and maintainable **test architecture**
-
-📌 Focus: Writing **predictable, stable, and maintainable automation**
+```text
+LLM Fundamentals
+        ↓
+Python for AI
+        ↓
+Vector Databases
+        ↓
+RAG
+        ↓
+LangChain
+        ↓
+LangGraph
+        ↓
+MCP
+        ↓
+Tool-Using Agents
+        ↓
+Multi-Agent Systems
+        ↓
+Production AI
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Week 1 — LLM Fundamentals
 
-### 💻 Languages
-- Python  
-- TypeScript  
-- SQL (MySQL, PostgreSQL, MongoDB, Sybase)
+Learned the fundamentals behind modern LLM applications.
 
-### ⚙️ Automation & Testing
-- Playwright (TypeScript)  
-- Selenium (Python)  
-- pytest  
+### Topics
 
-### 🧰 Tools & Platforms
-- Git & GitHub  
-- JIRA, qTest, Octane  
-- Linux Shell Scripting  
+- LLM fundamentals
+- Transformers
+- Tokens
+- Parameters
+- Context windows
+- Training vs Inference
+- Prompt Engineering
+- Temperature
+- Hallucinations
+- RAG vs Fine-tuning
+- Structured prompting
 
-### 🧱 Frameworks & Concepts
-- Page Object Model (POM)  
-- Hybrid Framework Design  
-- Data-Driven Testing  
-- CI/CD Integration  
+### Prompt Engineering
+
+Practiced:
+
+- Zero-shot prompting
+- One-shot prompting
+- Few-shot prompting
+- Role prompting
+- Step-by-step prompting
+- Delimiter usage
+- Constraints
+- Structured output
+- Prompt optimization
+
+### Mini Project
+
+Built a reusable **QA Prompt Library** containing prompts for common engineering and testing tasks.
 
 ---
 
-## 📚 Key Learnings
+# 🐍 Week 2 — Python for AI
 
-- Built **end-to-end automation frameworks** with focus on scalability  
-- Reduced test flakiness using **better synchronization strategies**  
-- Designed **maintainable test architecture for long-term use**  
-- Worked in **Agile (Scrum) environments**, contributing to iterative releases  
+Focused on using Python to build AI-powered applications and interact with LLM APIs.
+
+### Topics
+
+- REST APIs
+- HTTP requests
+- GET vs POST
+- JSON
+- Headers
+- Authentication
+- API keys
+- Environment variables
+- Pydantic
+- Type hints
+- FastAPI
+- Async programming
+- `asyncio`
+- `httpx`
+- Gemini API
+- Ollama
+- Local LLM integration
+- Conversation history
+
+### Python AI Architecture
+
+```text
+Python
+   ↓
+FastAPI
+   ↓
+HTTPX / Requests
+   ↓
+LLM API
+   ↓
+Gemini / Ollama
+   ↓
+AI Application
+```
+
+### What I Built
+
+Built a small AI application capable of interacting with:
+
+- Google Gemini
+- Local LLMs through Ollama
+
+Also implemented basic conversational memory using Python data structures.
 
 ---
 
-## 💡 What Sets Me Apart
+# 🧪 Quality Engineering Foundation
 
-- I don’t just automate — I **analyze what should be automated**
-- I focus on **long-term maintainability over quick fixes**
+My background in Quality Engineering provides the foundation for my transition into AI Engineering.
+
+## ✅ Selenium + Python
+
+Worked with Selenium WebDriver using Python.
+
+### Experience
+
+- Page Object Model (POM)
+- Hybrid framework design
+- Data-driven testing
+- pytest
+- Cross-browser execution
+- Headless execution
+- Test data management
+- CI/CD integration
+- API testing
+- UI testing
+- Functional testing
+- Regression testing
+
+I progressed from writing basic automation scripts to designing maintainable automation frameworks.
+
+---
+
+# 🔥 Where QA Meets AI
+
+One of the areas I'm particularly interested in is the intersection of **Quality Engineering and AI**.
+
+```text
+Quality Engineering
+        +
+Automation
+        +
+AI / LLMs
+        ↓
+AI-Powered Quality Engineering
+```
+
+I'm exploring how AI can help with:
+
+- Test case generation
+- Test analysis
+- Failure investigation
+- Test data generation
+- API understanding
+- Documentation analysis
+- Regression intelligence
+- Intelligent test automation
+- Autonomous testing agents
+
+My long-term goal is to build **AI-powered engineering solutions that solve real QA problems**, rather than simply adding AI for the sake of using it.
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Languages
+
+- Python
+- TypeScript
+- SQL
+
+## 🧪 Automation & Testing
+
+- Selenium
+- pytest
+- API Testing
+- UI Testing
+- Functional Testing
+- Regression Testing
+
+## 🤖 AI / LLM
+
+- LLM APIs
+- Prompt Engineering
+- Google Gemini
+- Ollama
+- Local LLMs
+- FastAPI
+- Pydantic
+- Async Python
+
+### Currently Learning
+
+- Embeddings
+- Vector Databases
+- RAG
+- LangChain
+- LangGraph
+- MCP
+- Tool-Using Agents
+- Multi-Agent Systems
+
+## 🧰 Tools
+
+- Git
+- GitHub
+- JIRA
+- qTest
+- Octane
+- Postman
+- Linux Shell
+
+## 🗄️ Databases
+
+- MySQL
+- PostgreSQL
+- MongoDB
+- Sybase
+
+---
+
+# 📚 Current Learning Roadmap
+
+```text
+                    AI ENGINEERING
+                         │
+                         ▼
+                 LLM Fundamentals
+                         │
+                         ▼
+                    Python for AI
+                         │
+                         ▼
+                 Vector Databases
+                         │
+                         ▼
+                        RAG
+                         │
+                         ▼
+                    LangChain
+                         │
+                         ▼
+                    LangGraph
+                         │
+                         ▼
+                       MCP
+                         │
+                         ▼
+                 Tool-Using Agents
+                         │
+                         ▼
+                Multi-Agent Systems
+                         │
+                         ▼
+                  Production AI
+```
+
+---
+
+# 💡 Engineering Philosophy
+
+- I don't just automate — I understand **what should be automated**
 - I treat flaky tests as **engineering problems**
-- I build systems that teams can **trust and scale**
+- I prefer maintainable solutions over quick fixes
+- I believe automation should make teams **faster and more confident**
+- I don't want to just **use AI** — I want to understand how to **build AI systems**
+- I learn by building **real projects**, not just completing tutorials
 
 ---
 
-## 🔭 What’s Next
+# 🔭 What's Next
 
-- Advanced Playwright framework design  
-- API + UI integrated automation  
-- Self-healing test strategies  
-- Scaling automation for large-scale applications  
+### AI / Agentic AI
+
+- 🔹 Vector Databases
+- 🔹 RAG systems
+- 🔹 LangChain
+- 🔹 LangGraph
+- 🔹 MCP
+- 🔹 Tool-using agents
+- 🔹 Multi-agent systems
+- 🔹 AI-powered QA Engineering
+- 🔹 Production AI systems
+
+### Long-Term Goal
+
+Build intelligent engineering systems that combine:
+
+```text
+AI
++
+Automation
++
+Quality Engineering
++
+Software Engineering
+```
 
 ---
 
-## 🤝 Let’s Connect
+# 📊 GitHub Stats
 
-- **LinkedIn:** https://www.linkedin.com/in/skv221/  
-- **Instagram:** https://www.instagram.com/notsovenky/  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skv221&theme=dark&hide_border=false)
 
 ---
 
-## 📊 GitHub Stats
+# 🤝 Let's Connect
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=skv221&theme=dark&hide_border=false)  
+- **LinkedIn:** https://www.linkedin.com/in/skv221/
+- **Instagram:** https://www.instagram.com/notsovenky/
+
 ---
 
 ## ⚡ Final Note
 
-If you're exploring my repositories, you'll notice one thing:  
-I don’t just learn tools — I build **real-world automation solutions that reflect practical QA challenges**.
+My repositories represent an ongoing journey from:
+
+**Quality Engineering → Automation Engineering → AI Engineering → Agentic AI**
+
+I'm not trying to collect tools.
+
+I'm trying to understand how to **engineer better systems with them**.
+
+> **Build. Break. Learn. Automate. Repeat. 🚀**
